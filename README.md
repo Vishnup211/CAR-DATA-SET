@@ -3,7 +3,7 @@
 Overview
 This repository provides a comprehensive Exploratory Data Analysis (EDA) on the dataset of passenger car sales in the Indian market. Specifically, the dataset covers car sales figures for May 2023, highlighting the growth of the market by over 13% compared to the previous year. The dataset also includes insights into the Top 25 Selling Cars, which constituted over 75% of total sales in April 2023.
 
-Dataset
+## Dataset
 The dataset comprises 141 columns detailing various aspects of passenger car sales. Key features include:
 
 Sales Volume: Total number of cars sold.
@@ -48,7 +48,7 @@ Top Selling Models: The Top 25 selling car models in April 2023 had a substantia
 
 Regional Insights: Regional distribution analysis uncovers variations in car sales across different parts of India, providing valuable information for targeted marketing and distribution strategies.
 
-Visualizations
+## Visualizations
 The findings are documented with various visualizations to provide a clear understanding of the dataset:
 
 Histograms and Box Plots for distribution and outliers.
@@ -59,7 +59,7 @@ Geographical Heatmaps and Stacked Bar Charts for regional analysis.
 Conclusion
 This EDA provides a detailed examination of the passenger car sales data, revealing key trends, market dynamics, and consumer preferences. The visualizations and analyses offer actionable insights for stakeholders in the automotive industry.
 
-How to Use This Repository
+## How to Use This Repository
 Clone the Repository: Use git clone to get a local copy of the dataset and analysis scripts.
 Install Dependencies: Ensure you have the necessary Python packages installed (e.g., pandas, numpy, matplotlib, seaborn).
 Run Analysis Scripts: Execute the provided Jupyter Notebooks or Python scripts to reproduce the EDA.
